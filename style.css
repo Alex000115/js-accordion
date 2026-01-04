@@ -1,0 +1,26 @@
+body{
+  background:#020617;
+  color:white;
+  font-family:Arial;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+.accordion{
+  background:#111827;
+  padding:20px;
+  border-radius:12px;
+  width:260px;
+}
+button{
+  width:100%;
+  padding:10px;
+  margin-top:6px;
+  text-align:left;
+}
+.panel{
+  display:none;
+  padding:10px;
+  background:#1e293b;
+}
